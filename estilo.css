@@ -1,0 +1,29 @@
+*{
+  text-align: center;      
+}
+body{
+background:linear-gradient(180deg, green,red);
+
+}
+h1{
+    color:red;
+    font-size: 1.5em;
+    text-align: center;
+    background-image:url("hdhdh.jpg");
+    
+}
+p{
+    font-family:arial;
+    color:orange
+}
+#Titulo{
+    color:blue;  
+    font-style:italic;
+}
+.segundo{
+    font-size:8;
+    color:purple;
+    text-align: left;
+    font-style: oblique;
+    background:linear-gradient(180deg, green,yellow);
+}
